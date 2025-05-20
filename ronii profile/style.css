@@ -1,0 +1,10 @@
+
+.header-bg 
+{
+ background: url('images/background.jpg') no-repeat center center/cover;
+  filter: blur(8px);
+  height: 100%;
+  position: fixed;
+  width: 100%;
+  z-index: -1;
+}
